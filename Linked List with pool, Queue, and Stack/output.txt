@@ -1,0 +1,102 @@
+
+	*---------- Starting Assignment Testing ----------* 
+
+
+*----- Test LinkedList: -----* 
+
+Testing about: 
+	LinkedList class written by: Chris Lemke. I play WoW and sometimes write code.
+
+Testing AddHead(10): 
+	PeekHead: 10
+	PeekTail: 10
+
+Testing AddHead(9): 
+	PeekHead: 9
+	PeekTail: 10
+
+Testing AddTail(): 
+
+	Testing AddTail(11): 
+	PeekHead: 9
+	PeekTail: 11
+
+	Testing AddTail(12): 
+	PeekHead: 9
+	PeekTail: 12
+
+Testing RemoveHead(): 
+	PeekHead: 9
+	PeekHead: 10
+
+Testing PeekHead(): 
+	10
+
+*----- LinkedList Testing Done -----* 
+
+
+*----- Test Stack: -----* 
+
+Testing about: 
+	Stack class written by: Chris Lemke.
+
+Testing Push(): 
+	Peek before pushing: 0
+	Pushing to stack: 12.1
+		Peek: 12.1
+	Pushing to stack: 12.2
+		Peek: 12.2
+	Pushing to stack: 12.3
+		Peek: 12.3
+
+Testing Pop(): 
+	Returned: 12.3
+
+Testing Peek(): 
+	Peek: 12.2
+
+Testing IsEmpty(): 
+	Is the list empty? 0 for no, 1 for yes: 0
+Testing Pop(): 
+	Returned: 12.2
+
+Testing Peek(): 
+	Peek: 12.1
+
+Testing IsEmpty(): 
+	Is the list empty? 0 for no, 1 for yes: 0
+Testing Pop(): 
+	Returned: 12.1
+
+Testing Peek(): 
+	Peek: 0
+
+Testing IsEmpty(): 
+	Is the list empty? 0 for no, 1 for yes: 1
+
+*----- Test Queue: -----* 
+
+Testing about: 
+Queue class written by: Chris Lemke.
+
+Testing Enqueue(): 
+	Peek before Enqueue (If empty, I returned an empty string): 
+	Enqueue: Line 1
+		Peek: Line 1
+	Enqueue: Line 2
+		Peek: Line 1
+
+Testing Dequeue(): 
+	We get: Line 1
+
+Testing Peek(): 
+	Current front of the queue is: Line 2
+
+Testing IsEmpty(): 
+	Is the list empty? 0 for no, 1 for yes: 0
+
+*----- Queue Testing Done -----* 
+
+
+	*----------   Assignment Testing Done   ----------* 
+
