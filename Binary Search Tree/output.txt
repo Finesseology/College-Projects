@@ -1,0 +1,32 @@
+Script started on Thu 04 Nov 2021 01:35:51 PM PDT
+]0;clemke@ecs-pa-coding1:~/projects/csc130/assignment3_BST[?1034h[clemke@ecs-pa-coding1 assignment3_BST]$ make
+g++ -c main.cpp
+g++ -c tree.cpp
+g++ main.o tree.o -o bst
+]0;clemke@ecs-pa-coding1:~/projects/csc130/assignment3_BST[clemke@ecs-pa-coding1 assignment3_BST]$ ./bst
+
+	*---------- Starting Assignment Testing ----------* 
+
+Chris Lemke wrote this BinarySearchTree class.
+
+Printing BST tree: 
+
++-- 10: Bufallo Wings
+    +-- 6: Pringles
+        +-- 8: Chocolate
+    +-- 43: Cheez Whiz
+        +-- 18: Root beer
+        +-- 50: Ice Cream
+
+Find: 	Key: 8: Value: Chocolate. 
+	What was found: Chocolate
+
+Find: 	Key: 4: Value: No node. 
+	What was found: 
+
+	*---------- Assignment   Testing   Done ----------* 
+
+]0;clemke@ecs-pa-coding1:~/projects/csc130/assignment3_BST[clemke@ecs-pa-coding1 assignment3_BST]$ exit
+exit
+
+Script done on Thu 04 Nov 2021 01:36:03 PM PDT
