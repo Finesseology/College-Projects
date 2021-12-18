@@ -1,0 +1,45 @@
+
+	*---------- Starting Assignment Testing ----------* 
+
+Key sizes: 4
+Record sizes: 13
+
+Queue class written by: Chris Lemke.
+
+Before sorting: 
+Contains: 
+Key: 2020	Value: Great Toilet Paper Shortage   
+Key: 1839	Value: Sutter's Fort founded
+Key: 1846	Value: Bear Flag Revolt
+Key: 1947	Value: Sacramento State founded 
+Key: 1977	Value: Star Wars was born
+Key: 2017	Value: Star Wars franchise almost destroyed
+Key: 1964	Value: Buffalo wings invented
+Key: 1783	Value: United States Constitution enacted
+Key: 1850	Value: California joins the United States
+Key: 1848	Value: Gold Rush begins 
+Key: 1776	Value: American Revolution
+Key: 1980	Value: Pacman was released
+Key: 1953	Value: Cheese Whiz was invented (Nacho Era began)
+
+
+
+After sorting the queue: 
+Contains: 
+Key: 1776	Value: American Revolution
+Key: 1783	Value: United States Constitution enacted
+Key: 1839	Value: Sutter's Fort founded
+Key: 1846	Value: Bear Flag Revolt
+Key: 1848	Value: Gold Rush begins 
+Key: 1850	Value: California joins the United States
+Key: 1947	Value: Sacramento State founded 
+Key: 1953	Value: Cheese Whiz was invented (Nacho Era began)
+Key: 1964	Value: Buffalo wings invented
+Key: 1977	Value: Star Wars was born
+Key: 1980	Value: Pacman was released
+Key: 2017	Value: Star Wars franchise almost destroyed
+Key: 2020	Value: Great Toilet Paper Shortage   
+
+
+	*---------- Assignment   Testing   Done ----------* 
+
